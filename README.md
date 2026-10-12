@@ -17,8 +17,9 @@ Vibe Coding Studio · SE Struktur und Ökologie · Universität Innsbruck · WS 
 | `requirements.txt` | die Python-Pakete für den Kurs |
 | `.gitignore` | sorgt dafür, dass `.env` (euer Key) und `.venv` nie auf GitHub landen |
 | `LOGBUCH.md` | euer Prompt-Logbuch, gehört zur Abgabe |
+| `.env.example` | Vorlage für eure `.env`: kopieren, in `.env` umbenennen, eigenen Key eintragen |
 
-Nicht im Repo, das legt jede:r lokal selbst an: `.venv` (VS Code: „Python: Create Environment“) und `.env` mit dem eigenen Key.
+Nicht im Repo, das legt jede:r lokal selbst an: `.venv` (VS Code: „Python: Create Environment“) und `.env` (Kopie von `.env.example`) mit dem eigenen Key.
 
 ---
 
